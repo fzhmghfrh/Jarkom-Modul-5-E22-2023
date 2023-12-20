@@ -6,9 +6,9 @@
 | Faizah Nurdianti Maghfirah | 5025211134 |
 
 ## SUBNET
-
+![image](https://github.com/fzhmghfrh/Jarkom-Modul-5-E22-2023/blob/main/img/subnet.png)
 ## TREE
-
+![image](https://github.com/fzhmghfrh/Jarkom-Modul-5-E22-2023/blob/main/img/tree.png)
 ## CONFIG
 
 ### Aura
